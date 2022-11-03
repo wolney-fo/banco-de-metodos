@@ -7,10 +7,10 @@
 
 <p align="center">Disponível em:</p>
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://github.com/wolney-fo/banco-de-metodos/blob/main/validarCPF/testarCPF.py" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://github.com/wolney-fo/banco-de-metodos/blob/main/validarCPF/testarCPF.java" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   </a>
   <a href="[#](http://www.receita.fazenda.gov.br/aplicacoes/atcta/cpf/funcoes.js)" target="_blank">
